@@ -43,7 +43,7 @@ I build Bayesian methods that help us map the dark Universe from large-scale-str
 | <a href="https://lsstdesc.org/">LSST Dark Energy Science Collaboration (DESC)</a> | Preparing cosmology with the Rubin Observatory LSST. |
 | <a href="https://kids.strw.leidenuniv.nl/">Kilo-Degree Survey (KiDS)</a> | Precision weak-lensing cosmology with wide-field optical imaging. |
 | <a href="https://www.euclid-ec.org/">Euclid Collaboration</a> | ESA space mission mapping the geometry of the dark Universe. |
-| <a href="https://aquila-consortium.org/">Aquila Consortium</a> | Joint analysis framework for next-generation weak-lensing data. |
+| <a href="https://aquila-consortium.org/">Aquila Consortium</a> | Machine Learning and Field Level Inference frameworks for next-generation large scale structure data. |
 
 ---
 
