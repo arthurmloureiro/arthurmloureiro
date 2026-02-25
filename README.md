@@ -70,10 +70,4 @@ This work is supported by the **Swedish National Space Agency**.
 
 ---
 
-## ✨ GitHub goodies
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurmloureiro&show_icons=true"
-       alt="GitHub stats" height="180"/>
-</div>
-
 <!-- Tip: pin your favourite repos in your GitHub profile settings for extra visibility! -->
