@@ -50,9 +50,10 @@ I build Bayesian methods that help us map the dark Universe from large-scale-str
 ## 🛠 Open-source projects
 | Project | Blurb |
 |---------|-------|
+| <a href="https://github.com/arthurmloureiro/cosmotron-legacy">cosmoTRON Legacy</a> | An exercise on Multi Agent Systems for Galaxy Catalogue Analysis on the sphere using AG2|
 | <a href="https://github.com/LSSTDESC/Smokescreen">Smokescreen</a> | Mitigates experimenter bias in LSST-DESC cosmology analyses. |
 | <a href="https://github.com/glass-dev/glass">GLASS</a> | Generators for large-scale-structure simulations on the celestial sphere. |
-| <a href="https://github.com/LSSTDESC/Heracles">Heracles</a> | Modular angular-power-spectrum pipeline for survey data. |
+| <a href="https://github.com/heracles-ec/heracles">Heracles</a> | Modular angular-power-spectrum pipeline for survey data. |
 | Almanac <sub><sup>(private)</sup></sub> | Bayesian hierarchical model for data analysis on the sphere. |
 
 ---
